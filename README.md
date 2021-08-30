@@ -1,6 +1,6 @@
 ### Olá, eu sou o Rick! 👋
 
-- 🔭 Futuramente trabalhando com programação
+- 🔭 Futuro programador!
 - 🌱 Estudando Desenvolvimento web Full Stack e Design
 
 <div>
