@@ -16,3 +16,4 @@
   
   ##
   
+  ![Snake animation](https://github.com/RickFernandez/RickFernandez/blob/output/github-contribution-grid-snake.svg)
