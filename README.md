@@ -20,7 +20,7 @@
   <div>
  
   <a href="https://www.instagram.com/coding.rick" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%FF0000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rickfernandez03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rickfernandez03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%00FF00?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-fernandez-bb3751212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/RickFernandez/RickFernandez/blob/output/github-contribution-grid-snake.svg)
