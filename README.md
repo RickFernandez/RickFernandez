@@ -1,7 +1,7 @@
 ### Olá, eu sou o Rick! 👋
 
 - 🔭 Full-Stack Developer!
--👨‍💻 Estudando Desenvolvimento web Full Stack
+-👨‍💻 Studiyng Full-Stack Development
 
 <div>
   <a href="https://github.com/RickFernandez">
