@@ -1,6 +1,6 @@
 ### Hey, I'm Rick! 👋🤓
 
--👨‍💻 Studying Full-Stack Development
+👨‍💻 Studend of Full-Stack Development
 
 <div>
   <a href="https://github.com/RickFernandez">
