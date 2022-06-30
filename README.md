@@ -1,4 +1,4 @@
-### Hey, I'm Rick! 🤓👋
+### Hey, I'm Rick! 👋🤓
 
 -👨‍💻 Studying Full-Stack Development
 
