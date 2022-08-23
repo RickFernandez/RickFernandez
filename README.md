@@ -27,7 +27,7 @@
 
   <img src="./img/mario.gif">
   
-  ![Snake animation](https://github.com/RickFernandez/RickFernandez/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/RickFernandez/pamellafernandes/blob/output/github-contribution-grid-snake.svg)
 
 
 
