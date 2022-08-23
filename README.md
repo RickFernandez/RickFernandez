@@ -34,7 +34,7 @@
   <div align="center">
     <p>Total de visitas no perfil:</p>
     <p>
-        <img src="https://profile-counter.glitch.me/rickfernandez/count.svg"/>
+        <img src="https://profile-counter.glitch.me/pamellafernandes/count.svg"/>
     </p>
   </div>
 
