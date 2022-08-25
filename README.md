@@ -1,8 +1,44 @@
-### Hey, I'm Rick! 👋🤓
+### <strong> Hey, welcome to my profile! </strong> 👋🤓
 
-👨‍💻 Studend of Full-Stack Development
+👨‍💻 <em> My name is Henrique, but you can call me Rick! I'm </em>  <strong> Full-Stack Developer! </strong>
+
+<p>
+  🤓 I will tell you a little about me: ⬇️
+</p>
+
+<p>
+  🎮 Hard Skills: <strong>  HTML, CSS, Bootstrap, Javascript, Node.Js, Java, Spring MVC. </strong>
+</p>
+
+<p>
+  📚 Now i'm Studiyng: <strong>  C#, .NET, Kotlin. </strong>
+</p>
+
+<p>
+  💻 Tools: <strong>  Visual Studio Code, Visual Studio, Android Studio, Figma, Azure, Git, GitHub, Heroku. </strong>
+</p>
+
+<p>
+  👨‍💻 <strong> Follow my Tech Profile clicking the link below: </strong>
+  
+  </br>
+  
+  <a href="https://www.instagram.com/coding.rick" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</p>
+
+<p>
+  📧 <strong> You can find and contact me clicking the links below: </strong>
+  
+  </br>
+  
+  <a href="https://www.linkedin.com/in/henrique-fernandez-bb3751212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:rickfernandez03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
+
+</br>
 
 <div>
+  
   <a href="https://github.com/RickFernandez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RickFernandez&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickFernandez&layout=compact&langs_count=7&theme=github_dark"/>
@@ -20,11 +56,7 @@
   ##
   
   <div>
- 
-  <a href="https://www.instagram.com/coding.rick" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-fernandez-bb3751212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:rickfernandez03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    
+   
   <img src="./img/mario.gif">
   
   ![Snake animation](https://github.com/RickFernandez/pamellafernandes/blob/output/github-contribution-grid-snake.svg)
