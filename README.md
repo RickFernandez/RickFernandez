@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  💻 Tools: <strong>  Visual Studio Code, Visual Studio, Android Studio, Figma, Azure, Git, GitHub, Heroku. </strong>
+  💻 Tools: <strong>  VS Code, Visual Studio, Android Studio, Figma, Azure, Git, GitHub, Heroku. </strong>
 </p>
 
 <p>
