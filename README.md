@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  📚 Now i'm Studiyng: <strong>  C#, .NET, Kotlin. </strong>
+  📚 Studiyng: <strong>  C#, .NET, Kotlin. </strong>
 </p>
 
 <p>
