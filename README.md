@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  📚 Studiyng: <strong>  C#, .NET, Kotlin. </strong>
+  📚 Studiyng: <strong>  Angular, TypeScript, C#, .NET, Kotlin. </strong>
 </p>
 
 <p>
