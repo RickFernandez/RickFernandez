@@ -7,11 +7,11 @@
 </p>
 
 <p>
-  🎮 Hard Skills: <strong>  HTML, CSS, Bootstrap, Javascript, Typescript, Angular, Node.Js, Java, Spring MVC. </strong>
+  🎮 Hard Skills: <strong>  HTML, CSS, Bootstrap, Javascript, Java, Spring MVC. </strong>
 </p>
 
 <p>
-  📚 Studiyng: <strong>  Angular, TypeScript, C#, .NET, Kotlin. </strong>
+  📚 Studiyng: <strong>  Angular, TypeScript, Node.Js, C#, .NET. </strong>
 </p>
 
 <p>
