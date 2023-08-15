@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  🎮 Hard Skills: <strong>  HTML, CSS, Bootstrap, Javascript, Angular, TypeScript, Java, Spring. </strong>
+  🎮 Hard Skills: <strong>  HTML, CSS, Bootstrap, Javascript, Angular, TypeScript, Java, Spring, Wordpress, Elementor. </strong>
 </p>
 
 <p>
