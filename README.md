@@ -7,15 +7,15 @@
 </p>
 
 <p>
-  🎮 Hard Skills: <strong>  HTML, CSS, Bootstrap, Javascript, Java, Spring MVC. </strong>
+  🎮 Hard Skills: <strong>  HTML, CSS, Bootstrap, Javascript, Angular, TypeScript, Java, Spring. </strong>
 </p>
 
 <p>
-  📚 Studiyng: <strong>  Angular, TypeScript, Node.Js, C#, .NET. </strong>
+  📚 Studiyng: <strong> Node.Js, C#, .NET. </strong>
 </p>
 
 <p>
-  💻 Tools: <strong>  VS Code, Visual Studio, Android Studio, Figma, Azure, Git, GitHub, Heroku. </strong>
+  💻 Tools: <strong>  VS Code, Visual Studio, Figma, Azure, Jira, Git, GitHub. </strong>
 </p>
 
 <p>
