@@ -7,11 +7,11 @@
 </p>
 
 <p>
-  🎮 Hard Skills: <strong>  HTML, CSS, Sass/ Scss, Bootstrap, Javascript, Angular, TypeScript, Java, Spring, MySQL, MongoDB, Wordpress, Elementor. </strong>
+  🎮 Hard Skills: <strong>  HTML, CSS, Sass/ Scss, Bootstrap, Javascript, Angular, TypeScript, Java, Spring, MySQL, MongoDB. </strong>
 </p>
 
 <p>
-  📚 Studiyng: <strong> Developing projects to put my latest studies into practice! </strong>
+  📚 Studiyng: <strong> Java + Spring Boot </strong>
 </p>
 
 <p>
